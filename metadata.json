@@ -1,0 +1,5 @@
+{
+  "name": "Chat-Bot",
+  "description": "A high-performance, zero-latency AI chat interface powered by Google's Gemini 3 Flash model, featuring real-time streaming, markdown support, and a professional dark-mode UI.",
+  "requestFramePermissions": []
+}
